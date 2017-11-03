@@ -1,4 +1,14 @@
 # plant-model
+
+## Requirements
+This code is written in Python 2.7 and requires
+* Numpy
+* scipy
+* matplotlib
+
+## License
+MIT
+
 ## Reference:
 * [1]. Plant, R. E., and M. Kim. "Mathematical description of a bursting pacemaker neuron by
 a modification of the Hodgkin-Huxley equations." Biophysical journal 16.3 (1976): 227-244.
